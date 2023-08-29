@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Validacao {
+public class Validacao {
+    public static String cpf(String s) {
+        return s;
+    }
 }
